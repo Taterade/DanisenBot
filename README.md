@@ -1,0 +1,2 @@
+Simple discord bot that automates registration, reporting and rankings for Danisen league style game match making. By default and as an example it is configured following the Skullgirls community Danisen league rules.
+Relies on discordpy and setproctitle to function. Admins/Superusers/Organizers are stored in a config file generated on running danisenbot.py, which is also where the API key for the discord bot this is run as is stored.
