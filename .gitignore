@@ -1,0 +1,16 @@
+**/venv
+**/logs
+**/data
+**/badcode
+**/data2
+**/datamm
+*.log
+/sets
+/ratings.db
+*.db
+*.ods
+*.txt
+*.ini
+**/__pycache__
+portskillratingstosql.py
+*.fuse*
